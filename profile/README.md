@@ -24,8 +24,23 @@ A useful evaluation begins with your workload, a strong existing baseline and ag
 
 Visit our [website](https://www.beyondbruteforce.com/) for product explanations and published evidence. This public profile shares approved presentation material; it does not release private implementation source.
 
+## Questions before an evaluation
+
+**What could GLYX Archive help with?**  
+Collections of related files can repeat information. GLYX Archive reuses compatible retained structure and checks exact restoration. Savings depend on the collection and retained state; an evaluation should count every dependency and installation requirement alongside a conventional archive baseline.
+
+**Can TokenHoloFold handle every AI request?**  
+Its published evidence concerns supported requests with checkable results. Evaluate correctness, boundary handling, fallback and complete cost for your workload. The published qualification does not establish unrestricted language-model capability.
+
+**Is Seed State OS qualified on Windows?**  
+Full Windows qualification remains in progress. CPU, GPU and FPGA studies measure different workloads and boundaries; they are not one combined whole-system result.
+
+**How do we discuss licensing or an evaluation?**  
+Email [hello@beyondbruteforce.com](mailto:hello@beyondbruteforce.com) with a short, non-confidential description of your workload, current baseline, main constraint and success criteria. Please agree a suitable channel before sending confidential datasets or implementation details.
+
 ## Follow the development
 
 [YouTube](https://www.youtube.com/@BeyondBruteForceSystems) · [X](https://x.com/BeyondBruteForc) · [Facebook](https://www.facebook.com/profile.php?id=61595831968659)
 
 **Beyond Brute Force Systems Limited** · hello@beyondbruteforce.com
+
