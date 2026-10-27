@@ -15,8 +15,16 @@ Structured computing, compact archives and checked execution. We develop TokenHo
 | Project | Focus | Captioned introduction |
 | --- | --- | --- |
 | **TokenHoloFold** | Supported-workflow execution and verification through a local route. | [Watch the explainer](https://youtu.be/HYJXEBts7So) |
-| **GLYX Archive** | Retained-structure archives and exact restoration on measured workloads. | [Watch the explainer](https://youtu.be/xDQrmYZmEio) |
+| **GLYX Archive** | Retained-structure archives and exact restoration on measured workloads. | [Watch the explainer](https://youtu.be/zIanpPDdzn8) |
 | **Seed State OS** | Retained-state and selective-update research. Full Windows qualification is still in progress. | [Watch the explainer](https://youtu.be/2rsBHvCwDLU) |
+
+## Latest GLYX Archive demonstration
+
+[Watch the completed 50.109 GB demonstration](https://youtu.be/zIanpPDdzn8) · [60-second overview](https://youtube.com/shorts/2Te7oH9-ZRc)
+
+The controlled mixed benchmark restored all **2,803 original file entries exactly**. Total retained local recovery was **12.166 GB**, including required support data and recovery software. The corpus includes synthetic structured fixtures, controls, media and repeated entries. Results depend on the files and retained dependencies; common macOS and transient restored output space are excluded. The film is an animated replay of saved measurements, not the benchmark's elapsed runtime.
+
+[Read the published results and discuss an evaluation](https://beyondbruteforce.com/glyx-archive/#completed-benchmark).
 
 ## Start with the evidence
 
@@ -43,4 +51,3 @@ Email [hello@beyondbruteforce.com](mailto:hello@beyondbruteforce.com) with a sho
 [YouTube](https://www.youtube.com/@BeyondBruteForceSystems) · [X](https://x.com/BeyondBruteForc) · [Facebook](https://www.facebook.com/profile.php?id=61595831968659)
 
 **Beyond Brute Force Systems Limited** · hello@beyondbruteforce.com
-
