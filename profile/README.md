@@ -10,6 +10,10 @@ Software for less repeated storage, supported AI operations and computation. Our
 
 [Explore BBF](https://www.beyondbruteforce.com/) · [Discuss a business evaluation](mailto:hello@beyondbruteforce.com)
 
+## News & roadmap
+
+BBF News & Roadmap is here. Follow GLYX’s private Mac preview, our eight pending UK patent applications, programme updates and plans for graphics and worlds. See what’s completed and what’s next: https://beyondbruteforce.com/news/
+
 ## Eight technologies, practical business questions
 
 | Technology | What to explore |
